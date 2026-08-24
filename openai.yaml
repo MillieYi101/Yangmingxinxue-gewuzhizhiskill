@@ -1,0 +1,4 @@
+interface:
+  display_name: "阳明格物"
+  short_description: "用格物致知梳理具体烦恼，辨明念头、事实与当下行动"
+  default_prompt: "使用 $yangming-gewu 帮我分析眼前的烦恼，分清事实、念头与当下行动。"
