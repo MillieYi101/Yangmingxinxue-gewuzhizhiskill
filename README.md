@@ -1,4 +1,4 @@
-# 阳明心学-格物致志（Yangming Gewuzhizhi）
+# 阳明心学-格物致知（Yangming Gewuzhizhi）
 
 一个受王阳明心学启发的 Codex Skill，用“格物致知、致良知、知行合一、事上磨”的思路，帮助人梳理焦虑、纠结、后悔、关系冲突及人生或职业选择。
 
